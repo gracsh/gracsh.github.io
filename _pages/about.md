@@ -24,4 +24,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I'm a second-year PhD student in Applied Mathematics and Computational Science at University of Pennsylvania. 
+I'm a second-year PhD student in Applied Mathematics and Computational Science at University of Pennsylvania. I'm very fortunate to work with Prof. Kai Wang.
+
+My current research projects focus on developing novel statistical methods and machine-learning tools to analyze large electronic records. 
