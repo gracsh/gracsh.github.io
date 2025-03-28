@@ -24,6 +24,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I'm a second-year PhD student in Applied Mathematics and Computational Science at University of Pennsylvania. I'm very fortunate to work with Prof. Kai Wang.
+I'm a second-year PhD student in Applied Mathematics and Computational Science at the University of Pennsylvania (UPenn). I'm very fortunate to be advised by Prof. Hamsa Bastani.
 
-My current research projects focus on developing novel statistical methods and machine-learning tools to analyze large electronic records. 
+My current research projects focus on developing data-driven algorithms for decision-making. 
+
+Before joining Penn, I obtained my Master's degree in Financial Engineering from the Massachusetts Institute of Technology (MIT) and dual bachelor's degrees in Applied Mathematics and Computer Science from Emory University.
